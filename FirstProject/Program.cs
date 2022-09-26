@@ -9,8 +9,8 @@ class Program
         Console.WriteLine(SayHi("Plamen and Svetlyo"));
     }
 
-    public static string SayHi(string name)
+    public static string SayHi(string Mitko)
     {
-        return $"Hello {name}";
+        return $"Hello {Mitko}";
     }
 }
